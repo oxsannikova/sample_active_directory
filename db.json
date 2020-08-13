@@ -74,27 +74,27 @@
     "sessions": [
         {
         "ip": "10.10.10.10",
-        "userid": "chdietrich",
+        "username": "chdietrich",
         "lastLoginTime": "2020-08-05T10:30:03.325Z"
         },
         {
         "ip": "10.20.20.20",
-        "userid": "lizsmith",
+        "username": "lizsmith",
         "lastLoginTime": "2020-08-05T09:30:03.325Z"
         },
         {
         "ip": "192.168.11.11",
-        "userid": "palebsack",
+        "username": "palebsack",
         "lastLoginTime": "2020-08-05T07:30:03.325Z"
         },
         {
         "ip": "192.168.11.11",
-        "userid": "erhowell",
+        "username": "erhowell",
         "lastLoginTime": "2020-08-05T07:30:03.325Z"
         },
         {
         "ip": "192.168.11.11",
-        "userid": "clbauch",
+        "username": "clbauch",
         "lastLoginTime": "2020-08-05T07:30:03.325Z"
         }
     ]
