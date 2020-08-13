@@ -1,0 +1,101 @@
+{
+    "users": [
+        {
+        "id": 1,
+        "name": "Liz Smith",
+        "username":"lizsmith",
+        "title": "Architect",
+        "email": "liz@example.com",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874"
+            },
+        "phone": "010-692-6593 x09125",
+        },
+        {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "erhowell",
+        "title": "Senior Architect",
+        "email": "erhowell@example.com",
+        "address": {
+          "street": "Victor Plains",
+          "suite": "Suite 879",
+          "city": "Wisokyburgh",
+          "zipcode": "90566-7771"
+        },
+        "phone": "010-692-6593 x09125"
+      },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "clbauch",
+        "title": "Senior Manager",
+        "email": "clbauch@example.com",
+        "address": {
+          "street": "Douglas Extension",
+          "suite": "Suite 847",
+          "city": "McKenziehaven",
+          "zipcode": "59590-4157"
+        },
+        "phone": "1-463-123-4447"
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "palebsack",
+        "title": "CEO",
+        "email": "palebsack@example.com",
+        "address": {
+          "street": "Hoeger Mall",
+          "suite": "Apt. 692",
+          "city": "South Elvis",
+          "zipcode": "53919-4257"
+        },
+        "phone": "493-170-9623 x156"
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "chdietrich",
+        "title": "CIO",
+        "email": "chdietrich@example.com",
+        "address": {
+          "street": "Skiles Walks",
+          "suite": "Suite 351",
+          "city": "Roscoeview",
+          "zipcode": "33263"
+        },
+        "phone": "(254)954-1289"
+      }
+    ],
+    "sessions": [
+        {
+        "ip": "10.10.10.10",
+        "userid": "chdietrich",
+        "lastLoginTime": "2020-08-05T10:30:03.325Z"
+        },
+        {
+        "ip": "10.20.20.20",
+        "userid": "lizsmith",
+        "lastLoginTime": "2020-08-05T09:30:03.325Z"
+        },
+        {
+        "ip": "192.168.11.11",
+        "userid": "palebsack",
+        "lastLoginTime": "2020-08-05T07:30:03.325Z"
+        },
+        {
+        "ip": "192.168.11.11",
+        "userid": "erhowell",
+        "lastLoginTime": "2020-08-05T07:30:03.325Z"
+        },
+        {
+        "ip": "192.168.11.11",
+        "userid": "clbauch",
+        "lastLoginTime": "2020-08-05T07:30:03.325Z"
+        }
+    ]
+}
